@@ -1,0 +1,100 @@
+1|Bread - Sticks, Thin, Plain|3.91|54
+2|Towel Multifold|7.68|9
+3|Soup - Boston Clam Chowder|2.18|55
+4|Bread - Roll, Soft White Round|5.22|59
+5|Spinach - Packaged|4.2|11
+6|Trout - Smoked|2.65|98
+7|Veal - Insides Provini|4.72|74
+8|Cake Circle, Foil, Scallop|1.96|42
+9|Green Tea Refresher|2.86|6
+10|Tomato Paste|3.42|59
+11|Muffin Orange Individual|5.14|27
+12|Tart - Pecan Butter Squares|7.77|23
+13|Yogurt - Blueberry, 175 Gr|4.3|85
+14|Wine - Toasted Head|3.42|11
+15|Appetizer - Crab And Brie|6.89|74
+16|Ice Cream Bar - Hageen Daz To|2.94|66
+17|Nantucket Pine Orangebanana|8.74|32
+18|Wine - Periguita Fonseca|3.01|34
+19|Bonito Flakes - Toku Katsuo|1.32|58
+20|Red Currant Jelly|2.19|91
+21|Tea Leaves - Oolong|8.03|73
+22|Bread Sour Rolls|2.76|16
+23|Sauce - Marinara|6.23|75
+24|Chips Potato Salt Vinegar 43g|6.87|7
+25|Beef - Tender Tips|6.48|23
+26|Carroway Seed|4.3|97
+27|Kohlrabi|3.87|65
+28|Cinnamon Buns Sticky|5.18|6
+29|Ice Cream - Turtles Stick Bar|6.01|85
+30|Lamb - Whole, Frozen|3.1|31
+31|Pork - Ham Hocks - Smoked|5.78|76
+32|Cheese - Valancey|7.62|96
+33|Chocolate - Semi Sweet|5.36|83
+34|Berry Brulee|1.08|43
+35|Salami - Genova|9.82|62
+36|Pastry - French Mini Assorted|8.45|19
+37|Pears - Fiorelle|7.48|48
+38|Liquid Aminios Acid - Braggs|9.17|62
+39|Quail Eggs - Canned|8.74|72
+40|Veal - Loin|1.27|44
+41|Fish - Base, Bouillion|5.88|90
+42|Cheese - Bocconcini|5.01|57
+43|Kellogs Special K Cereal|6.99|32
+44|Venison - Liver|3.12|64
+45|Wine - Coteaux Du Tricastin Ac|2.31|73
+46|Lamb - Loin Chops|8.84|49
+47|Sambuca Cream|8.29|78
+48|Pork - Bacon,back Peameal|9.75|45
+49|Pineapple - Golden|7.87|84
+50|Tia Maria|8.2|39
+51|Bread Crumbs - Panko|6.82|45
+52|Bacardi Mojito|6.63|68
+53|Squid - Breaded|2.19|56
+54|Clams - Bay|3.03|11
+55|Soup - Knorr, Ministrone|8.66|14
+56|Crab - Claws, 26 - 30|1.29|40
+57|Gatorade - Orange|6.32|75
+58|V8 Pet|9.56|61
+59|Pastry - French Mini Assorted|7.41|23
+60|Melon - Cantaloupe|6.2|99
+61|Pastry - Chocolate Chip Muffin|8.25|16
+62|Ham - Cooked|3.77|60
+63|Soho Lychee Liqueur|6.53|91
+64|Longan|8.47|43
+65|Skirt - 24 Foot|4.58|2
+66|Sausage - Blood Pudding|4.17|54
+67|Zucchini - Mini, Green|7.04|75
+68|Kellogs Raisan Bran Bars|8.28|59
+69|Cheese - Colby|9.0|94
+70|Soup - Clam Chowder, Dry Mix|4.88|24
+71|Beans - Soya Bean|9.81|24
+72|Appetizer - Tarragon Chicken|3.84|43
+73|Tortillas - Flour, 12|9.37|13
+74|Beef Striploin Aaa|3.85|55
+75|Coconut - Whole|9.76|56
+76|Scallops - In Shell|1.46|60
+77|Bread - Kimel Stick Poly|7.71|49
+78|Wine - White, Schroder And Schyl|5.3|10
+79|Potatoes - Idaho 100 Count|1.97|86
+80|Truffle - Peelings|1.65|38
+81|Ocean Spray - Kiwi Strawberry|8.71|85
+82|Cups 10oz Trans|5.06|70
+83|Rappini - Andy Boy|5.1|38
+84|Wiberg Cure|6.74|35
+85|Tomatoes - Yellow Hot House|9.65|14
+86|Bread - Multigrain|4.16|23
+87|Milk - 2% 250 Ml|3.89|52
+88|Pepper - Black, Whole|7.19|85
+89|Pork - Back, Long Cut, Boneless|1.42|49
+90|Energy Drink - Franks Original|9.85|38
+91|Aspic - Amber|6.32|86
+92|Chocolate - Compound Coating|3.14|94
+93|Cheese - Cottage Cheese|5.32|53
+94|Jameson - Irish Whiskey|7.16|100
+95|Ginger - Crystalized|2.55|59
+96|Bread - Dark Rye|2.65|22
+97|Puree - Kiwi|6.97|60
+98|Lettuce - Escarole|5.6|44
+99|Compound - Orange|5.44|44
+100|Cheese - Grie Des Champ|9.36|96
